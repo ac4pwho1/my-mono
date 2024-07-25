@@ -1,0 +1,9 @@
+{
+  "name": "my-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node -r ts-node/register src/index.ts"
+  }
+}
